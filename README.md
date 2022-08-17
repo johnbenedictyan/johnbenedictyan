@@ -11,7 +11,7 @@ Visit my **[Website](https://johnbenedictyan.com/) - [Linkedin](https://www.link
 - 🔭 I’m currently working on a quantitative trading app using Pytorch
 - 🌱 I’m currently learning web3, blockchain and machine learning technologies
 - 💬 Ask me about web development, all things web3
-- 📫 How to reach me: **[email](johnbenedictyan@gmail.com)
+- 📫 How to reach me: [email](mailto:johnbenedictyan@u.nus.edu.sg)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a scar on my arm from a fish hook
 
