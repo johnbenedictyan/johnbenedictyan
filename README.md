@@ -6,12 +6,14 @@ My interests include using specialized data structures and algorithms to solve b
 
 I'm graduating in April 2026 and I'm interested in full-time software engineering roles. Please feel free to get in touch with me via email at johnbenedictyan@u.nus.edu.sg
 
-Visit my **[Website](https://johnbenedictyan.com/) - [Linkedin](https://www.linkedin.com/in/johnbenedictyan/)**
+Visit my 
+- **[Website](https://johnbenedictyan.com/)**
+- **[Linkedin](https://www.linkedin.com/in/johnbenedictyan/)**
 
 - 🔭 I’m currently working on a quantitative trading app using Pytorch
 - 🌱 I’m currently learning web3, blockchain and machine learning technologies
 - 💬 Ask me about web development, all things web3
-- 📫 How to reach me: [email](mailto:johnbenedictyan@u.nus.edu.sg)
+- 📫 How to reach me: [Via Email](mailto:johnbenedictyan@u.nus.edu.sg)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a scar on my arm from a fish hook
 
