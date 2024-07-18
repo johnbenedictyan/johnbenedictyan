@@ -1,36 +1,22 @@
-### Hi there 👋
+# Hi there, I'm John Benedict Yan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">  
 
-## About Me
-I am a software engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in computer science and business administration.
+### About me  
+- FullStack Engineer working on Go, Typescript, Java, Python and React
+- Seeking Software Engineering Internship
 
-<!-- My interests include using specialized data structures and algorithms to solve business problems and presenting difficult concepts to non-technical stakeholders. I am able to learn, adapt, and jump across verticals to deliver high-performing solutions.
+### Languages and Tools:
+- Languages: Java, JavaScript, TypeScript, Python, Go, HTML/CSS, Neo4j Cypher
+- Technologies: AWS Suite (S3, RDS, EC2, Glue, etc.), Docker, Kubernetes, Jest, React Testing Library, Django, Flask, Redux, Kafka, RabbitMQ, Apache Flink, Apache Spark, Expo, Express, Hadoop, Git, Socket.io, Kong Gateway, Consul, PySpark
+- Databases: MySQL, PostgreSQL, MongoDB, Redis, AWS Cassandra, SQLite, Neo4j, Pinecone
 
-I'm graduating in April 2026 and I'm interested in full-time software engineering roles. Please feel free to get in touch with me via email at johnbenedictyan@u.nus.edu.sg
+### Connect with me:  
+[<img align="left" alt="Personal Website" src="https://img.shields.io/badge/portfolio-%23DD0B78.svg?&style=for-the-badge&logo=starship&logoColor=white" />][website]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Email Me" src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][email]
+<br/>
 
-## Visit my 
-- **[Website](https://johnbenedictyan.com/)**
-- **[Linkedin](https://www.linkedin.com/in/johnbenedictyan/)**
--->
-
-## What is going on
-- 🔭 I’m currently working on a quantitative trading app using Pytorch
-- 🌱 I’m currently learning web3, blockchain and machine learning technologies
-- 💬 Ask me about web development, all things web3
-<!--
-- 📫 How to reach me: [Via Email](mailto:johnbenedictyan@u.nus.edu.sg)
--->
-
-<!--
-**johnbenedictyan/johnbenedictyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- [website]: <my website> -->
+[linkedin]: https://www.linkedin.com/in/johnbenedictyan/
+[github]: https://github.com/johnbenedictyan
+[email]: mailto:johnbenedictyan@u.nus.edu
+[website]:https://johnbenedictyan.com/
