@@ -15,6 +15,11 @@
 [<img align="left" alt="Email Me" src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][email]
 <br/>
 
+:zap: GitHub Stats
+  
+  [![Github Stats](https://github-readme-stats-xi-umber-88.vercel.app/api?username=johnbenedictyan&show_icons=true&hide_border=true&theme=ayu-mirage&count_private=true)](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
+  [![Top Langs](https://github-readme-stats-xi-umber-88.vercel.app/api/top-langs/?username=johnbenedictyan&count_private=true&layout=compact&hide_border=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+
 <!-- [website]: <my website> -->
 [linkedin]: https://www.linkedin.com/in/johnbenedictyan/
 [github]: https://github.com/johnbenedictyan
